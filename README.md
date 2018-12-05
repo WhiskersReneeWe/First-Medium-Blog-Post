@@ -3,7 +3,7 @@
 
 **Motivatoin**
 
-This project demonstrates how to combine data analysis and story telling in written form to inform the general audience of interests.
+This project demonstrates how to combine data analysis and story telling in a written form to inform the general audiences of interest.
 In this project, I use simple descriptive statistics, data visualization, and a supervised Machine Learning model to answer 3 interesting questions,
 
 1. Q1: Do guests' review habits differ between Seattle and Las Vegas?
