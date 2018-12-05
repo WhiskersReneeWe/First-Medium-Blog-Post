@@ -21,10 +21,9 @@ You can check out [my first blogpost here](https://medium.com/@reneeshiyanliu/a-
 
 **Data used in this project**
 
-  - The data used are downloaded from Kaggle and AirBnB Open.
-  - You can find the data source from the links below.
-  - https://www.kaggle.com/airbnb/seattle/data
-  - http://insideairbnb.com/get-the-data.html
+  - The data contains AirBnB listings in Seattle and Las Vegas.
+  - You can find the Seattle data source [here](https://www.kaggle.com/airbnb/seattle/data)
+  - You can access the Las Vegas data [here](http://insideairbnb.com/get-the-data.html)
 
 **Files in this repository**
 
