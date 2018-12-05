@@ -6,8 +6,8 @@
 This project demonstrates how to combine data analysis and story telling in a written form to inform the general audiences of interest.
 In this project, I use simple descriptive statistics, data visualization, and a supervised Machine Learning model to answer 3 interesting questions,
 
-1. Q1: Do guests' review habits differ between Seattle and Las Vegas?
-1. Q2: What factors help a listing attract more reviews?
+1. Q1: Do guests' reviewing habits differ between Seattle and Las Vegas?
+1. Q2: What factors can help a listing attract more reviews?
 1. Q3: Do superhosts get price premium in general?
 
 You can check out [my first blogpost here](https://medium.com/@reneeshiyanliu/a-naive-sleuth-on-airbnbs-cheapest-secret-weapon-user-reviews-d04f8d43555b) to learn more about what answers I find out from the data.
