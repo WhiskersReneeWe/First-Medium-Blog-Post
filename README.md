@@ -31,9 +31,8 @@ You can check out [my first blogpost here](https://medium.com/@reneeshiyanliu/a-
   
 **Summary**
 
-- The results suggest that people do have different review behaviors when visting Las Vegas and Seattle. The strongest factor that affects the review volume is a listing's type. The data suggests that when people enjoy enough privacy in their stay they tend to leaave reviews.
-- The predictive model has a low predicting power.
-- You can read more in my blogpost.
+- The results suggest that people do have different review behaviors when visting Las Vegas and Seattle. The strongest factor that affects the review volume is a listing's type. The data suggests that when people enjoy enough privacy in their stay they tend to leave reviews.
+- The predictive model has a low predicting power. More in-depth work needs to be carried out to resolve this problem.
 
 **Acknowledgement**
 
