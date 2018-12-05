@@ -1,5 +1,5 @@
 
-**First Medium blogpost and its supplementary code**
+**First Medium Blogpost and Its Supplementary Code**
 
 **Motivatoin**
 
